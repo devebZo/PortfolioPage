@@ -927,6 +927,137 @@ section {
   fill: #11dbcf;
 }
 
+.services .iconbox-ivory i {
+  color: #FEFEF0;
+}
+.services .iconbox-ivory:hover .icon i {
+  color: #fff;
+}
+.services .iconbox-ivory:hover .icon path {
+  fill: #FEFEF0;
+}
+
+.services .iconbox-jetblack i {
+  color: #0F0F10;
+}
+.services .iconbox-jetblack:hover .icon i {
+  color: #fff;
+}
+.services .iconbox-jetblack:hover .icon path {
+  fill: #0F0F10;
+}
+
+.services .iconbox-wine i {
+  color: #4C032B;
+}
+.services .iconbox-wine:hover .icon i {
+  color: #fff;
+}
+.services .iconbox-wine:hover .icon path {
+  fill: #4C032B;
+}
+
+.services .iconbox-mauve i {
+  color: #DFB0FF;
+}
+.services .iconbox-mauve:hover .icon i {
+  color: #fff;
+}
+.services .iconbox-mauve:hover .icon path {
+  fill: #DFB0FF;
+}
+
+.services .iconbox-grape i {
+  color: #6F2DA8;
+}
+.services .iconbox-grape:hover .icon i {
+  color: #fff;
+}
+.services .iconbox-grape:hover .icon path {
+  fill: #6F2DA8;
+}
+
+.services .iconbox-jade i {
+  color: #C2F7A8;
+}
+.services .iconbox-jade:hover .icon i {
+  color: #fff;
+}
+.services .iconbox-jade:hover .icon path {
+  fill: #C2F7A8;
+}
+
+.services .iconbox-beige i {
+  color: #F5F5DC;
+}
+.services .iconbox-beige:hover .icon i {
+  color: #fff;
+}
+.services .iconbox-beige:hover .icon path {
+  fill: #F5F5DC;
+}
+
+.services .iconbox-lime i {
+  color: #C0FF04;
+}
+.services .iconbox-lime:hover .icon i {
+  color: #fff;
+}
+.services .iconbox-lime:hover .icon path {
+  fill: #C0FF04;
+}
+
+.services .iconbox-cream i {
+  color: #F7F5C8;
+}
+.services .iconbox-cream:hover .icon i {
+  color: #fff;
+}
+.services .iconbox-cream:hover .icon path {
+  fill: #F7F5C8;
+}
+
+.services .iconbox-amber i {
+  color: #FF7518;
+}
+.services .iconbox-amber:hover .icon i {
+  color: #fff;
+}
+.services .iconbox-amber:hover .icon path {
+  fill: #FF7518;
+}
+
+.services .iconbox-apricot i {
+  color: #FDD3B1;
+}
+.services .iconbox-apricot:hover .icon i {
+  color: #fff;
+}
+.services .iconbox-apricot:hover .icon path {
+  fill: #FDD3B1;
+}
+
+.services .iconbox-olive i {
+  color: #487E40;
+}
+.services .iconbox-olive:hover .icon i {
+  color: #fff;
+}
+.services .iconbox-olive:hover .icon path {
+  fill: #487E40;
+}
+
+.services .iconbox-violet i {
+  color: #8B00F8;
+}
+.services .iconbox-violet:hover .icon i {
+  color: #fff;
+}
+.services .iconbox-violet:hover .icon path {
+  fill: #8B00F8;
+}
+
+
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
